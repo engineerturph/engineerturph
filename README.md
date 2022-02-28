@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @engineerturph
 - 👀 I’m interested in Web Dev
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on my New Projects in the future
 - 📫 How to reach me engineerturph@gmail.com
 
