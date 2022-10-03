@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Turabi</h1>
-<h3 align="center">A passionate fullstack developer from Turkey</h3>
+<h3 align="center">A passionate machine learning developer from Turkey</h3>
 
-- 🔭 I’m currently working on **a little flutter app project diethelper**
+- 🔭 I’m currently working on **ML projects**
 
-- 🌱 I’m currently learning **node.js**
+- 🌱 I’m currently learning **Deep Learning**
 
-- 💬 Ask me about **react javascript flutter**
+- 💬 Ask me about **javascript flutter python**
 
 - 📫 How to reach me **engineerturph@gmail.com**
 
