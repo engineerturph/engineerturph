@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **engineerturph@gmail.com**
 
-Önemli not! Birşeyi yazmadan önce githuba bak.
+Önemli not! Birşeyi yazmadan önce githuba bak! (Kendin yazmakla uğraşmak istemiyorsan)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
