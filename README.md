@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **engineerturph@gmail.com**
 
-Always look first to github before touching keyboard.
+Note to myself:Always look first to github before touching keyboard.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
