@@ -38,7 +38,7 @@
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40" />
   </a>
   <a href="https://github.com/google/jax" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq0BH5f9IB58AEv3KCe1uG7uOrCcEPG-EF3A&s" alt="JAX" width="40" height="40" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq0BH5f9IB58AEv3KCe1uG7uOrCcEPG-EF3A&s" alt="JAX" height="40" />
   </a>
   <h4 aligm="left">Other</h4>
   <a href="https://www.cprogramming.com/" target="_blank">
