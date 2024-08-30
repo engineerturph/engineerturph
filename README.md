@@ -27,7 +27,7 @@
   <a href="https://neovim.io/" target="_blank">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8887hPmnALQLPoE0C4qH01PHSLscim7Fd6g&s" alt="Neovim" width="40" height="40" />
   </a>
-<h2 aligm="left">ML tools</h2>
+<h4 aligm="left">ML tools</h4>
   <a href="https://pandas.pydata.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" />
   </a>
@@ -40,7 +40,7 @@
   <a href="https://github.com/google/jax" target="_blank">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq0BH5f9IB58AEv3KCe1uG7uOrCcEPG-EF3A&s" alt="JAX" width="40" height="40" />
   </a>
-  <h2 aligm="left">Other</h2>
+  <h4 aligm="left">Other</h4>
   <a href="https://www.cprogramming.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
   </a>
