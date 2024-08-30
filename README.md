@@ -40,6 +40,7 @@
   <a href="https://github.com/google/jax" target="_blank">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq0BH5f9IB58AEv3KCe1uG7uOrCcEPG-EF3A&s" alt="JAX" width="40" height="40" />
   </a>
+  <h2 aligm="left">Other</h2>
   <a href="https://www.cprogramming.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
   </a>
