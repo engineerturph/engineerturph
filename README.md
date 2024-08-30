@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Turabi</h1>
 <h3 align="center">A Passionate Machine Learning Developer from Turkey</h3>
 
-- 🔭 I’m currently working on **Machine Learning projects**  
+- 🔭 I’m currently working on **Remote Sensing Change Captioning**  
 - 🌱 I’m currently learning **Deep Learning**  
 - 💬 Ask me about **JavaScript, Flutter, and Python**  
 - 📫 How to reach me: **engineerturph@gmail.com**
