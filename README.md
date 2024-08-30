@@ -22,7 +22,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<h4 aligm="left">neo<b>vim</b> <3</h4>
+<h4 aligm="left">neo<strong>vim</strong> <3</h4>
 <p align="left">
   <a href="https://neovim.io/" target="_blank">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8887hPmnALQLPoE0C4qH01PHSLscim7Fd6g&s" alt="Neovim" width="40" height="40" />
