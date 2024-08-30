@@ -20,6 +20,7 @@ Note to myself:Always look first to chatgpt + internet before touching keyboard.
 
 <h3 align="left">Languages and Tools:</h3>
 (You can go to websites of tools with clicking the icons)
+
 -neovim <3
   <p align="left">  <a href="[https://www.cprogramming.com/](https://neovim.io/)" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8887hPmnALQLPoE0C4qH01PHSLscim7Fd6g&s" alt="c" width="40" height="40"/> </a> </p>
 
