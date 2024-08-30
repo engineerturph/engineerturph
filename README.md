@@ -22,6 +22,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<h2 aligm="left">neovim</h2>
 <p align="left">
   <a href="https://neovim.io/" target="_blank">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8887hPmnALQLPoE0C4qH01PHSLscim7Fd6g&s" alt="Neovim" width="40" height="40" />
